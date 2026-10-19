@@ -1,0 +1,4 @@
+# Служебные файлы, которые GitHub Pages не должен выкладывать на сайт
+exclude:
+  - CLAUDE.md
+  - README.md
