@@ -4473,6 +4473,8 @@ p > video {
 .autor-image {
 	border-radius: 50%;
 	background-size: cover;
+	object-fit: cover;
+	object-position: 0 0;
 	width: 150px !important;
 	height: 150px !important;
 }
